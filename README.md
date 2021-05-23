@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT, Projects regarding cybersecurtiy in python...
 - 📫 How to reach me: on email...
 
-- Weird file from github lol.
+If you're looking for a collab on cybersec lmk on: kovacirexhino@gmail.com
 
 <!---
 rexhinokovaci/rexhinokovaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
