@@ -18,8 +18,8 @@ I build and run products end to end: native mobile apps, edge backends, web, CI/
 ```yaml
 role:      [devops, full-stack, mobile, ai-engineering]
 based_in:  Tirana, Albania
-shipping:  iOS · Android · Wear OS · watchOS · Web · Cloudflare Workers
-infra:     Cloudflare (Workers, Pages, D1, KV, R2) · GitHub Actions · Kubernetes · Terraform
+shipping:  iOS · Android · Wear OS · watchOS · Web · Serverless APIs
+cloud:     AWS · GCP · Azure · Cloudflare · Kubernetes · Terraform · Docker · GitHub Actions
 ai:        LLM agents on daily schedules for content, SEO, QA and data curation
 currently: scaling a portfolio of localized word games and utility apps across Europe
 ```
@@ -48,11 +48,12 @@ Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croat
 ### How I ship
 
 ```
- commit ──► GitHub Actions ──► validate / test / security gate ──► Cloudflare Workers + Pages
-   ▲                                                                       │
-   └──── AI routines open PRs (content, SEO, data) ◄── health checks ◄─────┘
+ commit ──► GitHub Actions ──► validate / test / security gate ──► any cloud: AWS · GCP · Azure · Cloudflare
+   ▲                                                                                   │
+   └──── AI routines open PRs (content, SEO, data) ◄── health checks ◄─────────────────┘
 ```
 
+- Cloud-agnostic: the same pipeline targets serverless, containers or Kubernetes on whichever provider fits the product.
 - Every product deploys from CI. Nobody touches production by hand.
 - AI agents generate on a schedule. Policy checks decide what auto-merges.
 - Health checks and dependency gates run daily, so drift is caught before users see it.
@@ -62,7 +63,7 @@ Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croat
 <p>
   <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,js,python,java,html,css&theme=dark" alt="Languages"/><br/>
   <img src="https://skillicons.dev/icons?i=react,nodejs,django,androidstudio,xcode&theme=dark" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,docker,kubernetes,terraform,azure,linux,bash,sqlite&theme=dark" alt="Infra"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,kubernetes,docker,terraform,githubactions,linux,bash&theme=dark" alt="Infra"/>
 </p>
 
 ### Activity
