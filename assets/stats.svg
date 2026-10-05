@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='840' height='190' viewBox='0 0 840 190' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect x='0.5' y='0.5' width='839' height='189' rx='10' fill='none' stroke='#8b949e' stroke-opacity='0.3'/>
+<text x='28' y='38' font-size='15' font-weight='600' fill='#F38020'>Engineering output</text>
+<text x='812' y='38' font-size='12' text-anchor='end' fill='#8b949e'>includes private repos · updated Oct 2026</text>
+<text x='28' y='92' font-size='28' font-weight='700' fill='#F38020'>134</text>
+<text x='28' y='112' font-size='13' fill='#8b949e'>repositories</text>
+<text x='298' y='92' font-size='28' font-weight='700' fill='#F38020'>7,000+</text>
+<text x='298' y='112' font-size='13' fill='#8b949e'>commits all-time</text>
+<text x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>617</text>
+<text x='568' y='112' font-size='13' fill='#8b949e'>commits in 2026</text>
+<text x='28' y='154' font-size='28' font-weight='700' fill='#F38020'>2,400+</text>
+<text x='28' y='174' font-size='13' fill='#8b949e'>CI/CD runs in 2026</text>
+<text x='298' y='154' font-size='28' font-weight='700' fill='#F38020'>40+</text>
+<text x='298' y='174' font-size='13' fill='#8b949e'>live sites on the edge</text>
+<text x='568' y='154' font-size='28' font-weight='700' fill='#F38020'>34</text>
+<text x='568' y='174' font-size='13' fill='#8b949e'>production workflows</text>
+</svg>
