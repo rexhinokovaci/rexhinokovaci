@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='840' height='150' viewBox='0 0 840 150' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect x='0.5' y='0.5' width='839' height='149' rx='10' fill='none' stroke='#8b949e' stroke-opacity='0.3'/>
+<text x='28' y='38' font-size='15' font-weight='600' fill='#F38020'>Languages by code volume</text>
+<text x='812' y='38' font-size='12' text-anchor='end' fill='#8b949e'>49 MB across all repos · markup excluded</text>
+<clipPath id='c'><rect x='28' y='56' width='784' height='10' rx='5'/></clipPath><g clip-path='url(#c)'>
+<rect x='28.0' y='56' width='245.9' height='10' fill='#b07219'/>
+<rect x='273.4' y='56' width='163.6' height='10' fill='#f1e05a'/>
+<rect x='436.5' y='56' width='111.0' height='10' fill='#F05138'/>
+<rect x='547.0' y='56' width='96.1' height='10' fill='#A97BFF'/>
+<rect x='642.7' y='56' width='90.7' height='10' fill='#3178c6'/>
+<rect x='732.8' y='56' width='75.0' height='10' fill='#3572A5'/>
+<rect x='807.3' y='56' width='5.2' height='10' fill='#89e051'/>
+</g>
+<circle cx='33' cy='92' r='5' fill='#b07219'/><text x='44' y='96' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>Java</tspan> 31.3%</text>
+<circle cx='229' cy='92' r='5' fill='#f1e05a'/><text x='240' y='96' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>JavaScript</tspan> 20.8%</text>
+<circle cx='425' cy='92' r='5' fill='#F05138'/><text x='436' y='96' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>Swift</tspan> 14.1%</text>
+<circle cx='621' cy='92' r='5' fill='#A97BFF'/><text x='632' y='96' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>Kotlin</tspan> 12.2%</text>
+<circle cx='33' cy='120' r='5' fill='#3178c6'/><text x='44' y='124' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>TypeScript</tspan> 11.5%</text>
+<circle cx='229' cy='120' r='5' fill='#3572A5'/><text x='240' y='124' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>Python</tspan> 9.5%</text>
+<circle cx='425' cy='120' r='5' fill='#89e051'/><text x='436' y='124' font-size='13' fill='#8b949e'><tspan font-weight='600' fill='#F38020'>Shell</tspan> 0.6%</text>
+</svg>
