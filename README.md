@@ -63,7 +63,8 @@ Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croat
 <p>
   <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,js,python,java,html,css&theme=dark" alt="Languages"/><br/>
   <img src="https://skillicons.dev/icons?i=react,nodejs,django,androidstudio,xcode&theme=dark" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,kubernetes,docker,terraform,githubactions,linux,bash&theme=dark" alt="Infra"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,kubernetes,docker,terraform,githubactions,linux,bash&theme=dark" alt="Infra"/><br/>
+  <img src="assets/claude.svg" width="48" height="48" alt="Claude" title="Claude: agents, Claude Code, daily automation routines"/>
 </p>
 
 ### Activity
