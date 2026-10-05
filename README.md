@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://modex.al"><img src="https://img.shields.io/badge/Web-modex.al-111?style=flat-square&logo=cloudflare&logoColor=F38020" alt="modex.al"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-collabs%20%26%20contracts-111?style=flat-square" alt="Open to collabs"/>
+  <a href="mailto:kovacirexhino@gmail.com?subject=Collab"><img src="https://img.shields.io/badge/Open%20to-collabs%20%26%20contracts-F38020?style=flat-square" alt="Open to collabs and contracts"/></a>
 </p>
 
 ---
@@ -26,13 +26,9 @@ currently: scaling a portfolio of localized word games and utility apps across E
 
 ### By the numbers
 
-| | |
-|---|---|
-| **40+** | sites and apps live on Cloudflare's edge |
-| **10+** | products shipping to production right now |
-| **34** | GitHub Actions workflows across active products: deploy, health checks, security, content sync |
-| **Daily** | AI agent routines that write content, open PRs and auto-deploy after validation |
-| **7** | languages the games ship in: Albanian, Greek, German, Italian, Romanian, Serbo-Croatian, Danish |
+<img width="100%" src="assets/stats.svg" alt="134 repositories, 7,000+ commits, 617 commits in 2026, 2,400+ CI/CD runs in 2026, 40+ live sites, 34 production workflows"/>
+
+Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croatian and Danish.
 
 ### Selected work
 
@@ -71,10 +67,7 @@ currently: scaling a portfolio of localized word games and utility apps across E
 
 ### Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rexhinokovaci&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=F38020&icon_color=F38020&text_color=8b949e" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexhinokovaci&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=F38020&text_color=8b949e" alt="Top languages"/>
-</p>
+<img width="100%" src="assets/languages.svg" alt="Languages: Java, JavaScript, Swift, Kotlin, TypeScript, Python"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rexhinokovaci&bg_color=00000000&color=8b949e&line=F38020&point=F38020&area=true&area_color=F38020&hide_border=true" alt="Contribution graph"/>
 
