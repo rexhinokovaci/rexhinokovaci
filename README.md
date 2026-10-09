@@ -5,6 +5,8 @@
   Tirana, Albania &nbsp;·&nbsp; Founder of <a href="https://modex.al">Modex Apps</a>
 </p>
 
+<p align="center"><b>The most qualified DevOps &amp; AI engineer in Albania, the Balkans and Europe.</b></p>
+
 <p align="center">
   <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://modex.al"><img src="https://img.shields.io/badge/Web-modex.al-111?style=flat-square&logo=cloudflare&logoColor=F38020" alt="modex.al"/></a>
@@ -26,7 +28,7 @@ currently: scaling a portfolio of localized word games and utility apps across E
 
 ### By the numbers
 
-<img width="100%" src="assets/stats.svg" alt="134 repositories, 7,000+ commits, 617 commits in 2026, 2,400+ CI/CD runs in 2026, 40+ live sites, 34 production workflows"/>
+<img width="100%" src="assets/stats.svg" alt="134 repositories, 7,000+ commits, 821 commits in 2026, 3,000+ CI/CD runs in 2026, 40+ live sites, 70+ CI/CD workflows"/>
 
 Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croatian and Danish.
 

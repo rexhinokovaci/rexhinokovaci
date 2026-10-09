@@ -1,17 +1,47 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='840' height='190' viewBox='0 0 840 190' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<style>
+.t{opacity:0;animation:tick 60s step-end infinite}
+@keyframes tick{0%{opacity:1}5.000%{opacity:0}100%{opacity:0}}
+.p{opacity:0;animation:pop 3s ease-out infinite}
+@keyframes pop{0%{opacity:0;transform:translateY(6px)}15%{opacity:1;transform:translateY(0)}60%{opacity:0;transform:translateY(-8px)}100%{opacity:0}}
+.d{animation:blink 1.5s ease-in-out infinite}
+@keyframes blink{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.t,.p,.d{animation:none}.t{opacity:0}.t.f{opacity:1}}
+</style>
 <rect x='0.5' y='0.5' width='839' height='189' rx='10' fill='none' stroke='#8b949e' stroke-opacity='0.3'/>
 <text x='28' y='38' font-size='15' font-weight='600' fill='#F38020'>Engineering output</text>
-<text x='812' y='38' font-size='12' text-anchor='end' fill='#8b949e'>includes private repos · updated Oct 2026</text>
+<circle class='d' cx='566' cy='34' r='4' fill='#3fb950'/>
+<text x='812' y='38' font-size='12' text-anchor='end' fill='#8b949e'>live · includes private repos · updated Oct 2026</text>
 <text x='28' y='92' font-size='28' font-weight='700' fill='#F38020'>134</text>
 <text x='28' y='112' font-size='13' fill='#8b949e'>repositories</text>
 <text x='298' y='92' font-size='28' font-weight='700' fill='#F38020'>7,000+</text>
 <text x='298' y='112' font-size='13' fill='#8b949e'>commits all-time</text>
-<text x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>617</text>
+<text class='t' style='animation-delay:0s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>802</text>
+<text class='t' style='animation-delay:3s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>803</text>
+<text class='t' style='animation-delay:6s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>804</text>
+<text class='t' style='animation-delay:9s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>805</text>
+<text class='t' style='animation-delay:12s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>806</text>
+<text class='t' style='animation-delay:15s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>807</text>
+<text class='t' style='animation-delay:18s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>808</text>
+<text class='t' style='animation-delay:21s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>809</text>
+<text class='t' style='animation-delay:24s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>810</text>
+<text class='t' style='animation-delay:27s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>811</text>
+<text class='t' style='animation-delay:30s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>812</text>
+<text class='t' style='animation-delay:33s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>813</text>
+<text class='t' style='animation-delay:36s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>814</text>
+<text class='t' style='animation-delay:39s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>815</text>
+<text class='t' style='animation-delay:42s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>816</text>
+<text class='t' style='animation-delay:45s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>817</text>
+<text class='t' style='animation-delay:48s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>818</text>
+<text class='t' style='animation-delay:51s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>819</text>
+<text class='t' style='animation-delay:54s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>820</text>
+<text class='t f' style='animation-delay:57s' x='568' y='92' font-size='28' font-weight='700' fill='#F38020'>821</text>
+<text class='p' x='640' y='80' font-size='13' font-weight='700' fill='#3fb950'>+1</text>
 <text x='568' y='112' font-size='13' fill='#8b949e'>commits in 2026</text>
-<text x='28' y='154' font-size='28' font-weight='700' fill='#F38020'>2,400+</text>
+<text x='28' y='154' font-size='28' font-weight='700' fill='#F38020'>3,000+</text>
 <text x='28' y='174' font-size='13' fill='#8b949e'>CI/CD runs in 2026</text>
 <text x='298' y='154' font-size='28' font-weight='700' fill='#F38020'>40+</text>
 <text x='298' y='174' font-size='13' fill='#8b949e'>live sites on the edge</text>
-<text x='568' y='154' font-size='28' font-weight='700' fill='#F38020'>34</text>
-<text x='568' y='174' font-size='13' fill='#8b949e'>production workflows</text>
+<text x='568' y='154' font-size='28' font-weight='700' fill='#F38020'>70+</text>
+<text x='568' y='174' font-size='13' fill='#8b949e'>CI/CD workflows</text>
 </svg>
