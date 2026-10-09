@@ -97,6 +97,32 @@ I'm taking on new client projects. You get one senior engineer from idea to laun
 - AI agents generate on a schedule. Policy checks decide what auto-merges.
 - Health checks and dependency gates run daily, so drift is caught before users see it.
 
+### FAQ
+
+#### Where are you based, and do you work with clients abroad?
+
+Tirana, Albania (Central European Time). I work remotely with clients across the Balkans and the rest of Europe.
+
+#### What kind of projects do you take on?
+
+Mobile apps (iOS, Android, watchOS, Wear OS), web apps and SaaS, AI products and agents, and cloud & DevOps work such as CI/CD, Terraform, Kubernetes and migrations on AWS, GCP, Azure or Cloudflare. See [Hire me to build it](#hire-me-to-build-it).
+
+#### Can you work on an existing app or infrastructure, not just new builds?
+
+Yes. Adding AI features to an existing app, setting up CI/CD, cutting cloud costs and migrating between providers are all part of the services above.
+
+#### Who owns the code?
+
+You do. Everything is deployed to your cloud, and you own the code and the accounts.
+
+#### Can I see your code before hiring you?
+
+Most of my code is private, so I walk you through real pipelines and codebases on a call. The [case studies](#selected-work) describe the architecture of live products, and every app and site listed is live to try.
+
+#### How do we start?
+
+Email what you want to build, your timeline and your budget range to [kovacirexhino@gmail.com](mailto:kovacirexhino@gmail.com). I reply within 24 hours with next steps.
+
 ### Stack
 
 <p>
