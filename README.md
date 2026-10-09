@@ -8,9 +8,17 @@
 <p align="center"><b>DevOps &amp; AI engineer shipping live products from Albania to clients across the Balkans and Europe.</b></p>
 
 <p align="center">
-  <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://modex.al"><img src="https://img.shields.io/badge/Web-modex.al-111?style=flat-square&logo=cloudflare&logoColor=F38020" alt="modex.al"/></a>
-  <a href="#hire-me-to-build-it"><img src="https://img.shields.io/badge/Available%20for-new%20projects-F38020?style=flat-square" alt="Available for new projects"/></a>
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#experience--certifications">Experience</a> &nbsp;·&nbsp;
+  <a href="#hire-me-to-build-it">Services</a> &nbsp;·&nbsp;
+  <a href="#faq">FAQ</a> &nbsp;·&nbsp;
+  <a href="mailto:kovacirexhino@gmail.com">Contact</a>
+</p>
+
+<p align="center">
+  <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email Rexhino Kovaci at kovacirexhino@gmail.com"/></a>
+  <a href="https://modex.al"><img src="https://img.shields.io/badge/Web-modex.al-111?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Modex Apps website: modex.al"/></a>
+  <a href="#hire-me-to-build-it"><img src="https://img.shields.io/badge/Available%20for-new%20projects-F38020?style=flat-square" alt="Available for new client projects"/></a>
 </p>
 
 ---
@@ -81,7 +89,7 @@ I'm taking on new client projects. You get one senior engineer from idea to laun
 **Start a project:** email what you want to build, your timeline and your budget range. I reply within 24 hours with next steps.
 
 <p>
-  <a href="mailto:kovacirexhino@gmail.com?subject=New%20project%3A%20mobile%20%2F%20web%20%2F%20AI&body=What%20I%20want%20to%20build%3A%0ATimeline%3A%0ABudget%20range%3A"><img src="https://img.shields.io/badge/Start%20a%20project-kovacirexhino%40gmail.com-F38020?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project"/></a>
+  <a href="mailto:kovacirexhino@gmail.com?subject=New%20project%3A%20mobile%20%2F%20web%20%2F%20AI&body=What%20I%20want%20to%20build%3A%0ATimeline%3A%0ABudget%20range%3A"><img src="https://img.shields.io/badge/Start%20a%20project-kovacirexhino%40gmail.com-F38020?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email kovacirexhino@gmail.com"/></a>
 </p>
 
 ### How I ship
@@ -126,15 +134,15 @@ Email what you want to build, your timeline and your budget range to [kovacirexh
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,js,python,java,html,css&theme=dark" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,androidstudio,xcode&theme=dark" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,kubernetes,docker,terraform,githubactions,linux,bash&theme=dark" alt="Infra"/><br/>
-  <img src="assets/claude.svg" width="48" height="48" alt="Claude" title="Claude: agents, Claude Code, daily automation routines"/>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,js,python,java,html,css&theme=dark" alt="Languages: Swift, Kotlin, TypeScript, JavaScript, Python, Java, HTML, CSS"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,androidstudio,xcode&theme=dark" alt="Frameworks and tools: React, Node.js, Django, Android Studio, Xcode"/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,kubernetes,docker,terraform,githubactions,linux,bash&theme=dark" alt="Cloud and DevOps: AWS, Google Cloud, Azure, Cloudflare, Kubernetes, Docker, Terraform, GitHub Actions, Linux, Bash"/><br/>
+  <img src="assets/claude.svg" width="48" height="48" alt="Claude by Anthropic" title="Claude: agents, Claude Code, daily automation routines"/>
 </p>
 
 ### Activity
 
-<img width="100%" src="assets/languages.svg" alt="Languages: Java, JavaScript, Swift, Kotlin, TypeScript, Python"/>
+<img width="100%" src="assets/languages.svg" alt="Languages by code volume across all repositories: Java, JavaScript, Swift, Kotlin, TypeScript, Python"/>
 
 <img width="100%" src="assets/activity.svg" alt="Weekly contributions over the last 12 months"/>
 
