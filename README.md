@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://modex.al"><img src="https://img.shields.io/badge/Web-modex.al-111?style=flat-square&logo=cloudflare&logoColor=F38020" alt="modex.al"/></a>
-  <a href="mailto:kovacirexhino@gmail.com?subject=Collab"><img src="https://img.shields.io/badge/Open%20to-collabs%20%26%20contracts-F38020?style=flat-square" alt="Open to collabs and contracts"/></a>
+  <a href="#hire-me-to-build-it"><img src="https://img.shields.io/badge/Available%20for-new%20projects-F38020?style=flat-square" alt="Available for new projects"/></a>
 </p>
 
 ---
@@ -47,18 +47,28 @@ Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croat
 | [**Modex**](https://modex.al) | Albanian-language AI and business manuals | Web |
 | [smart-city-albania](https://github.com/rexhinokovaci/smart-city-albania) | Open-source public cameras, places and live city data | Open source |
 
-### Work with me
+### Hire me to build it
 
-What clients get, and what you can check before you hire:
+I'm taking on new client projects. You get one senior engineer from idea to launch, with no hand-offs between agencies.
 
-- **Proof, not promises.** Every product in the table above is live. Open the links, install the apps, try them.
-- **Production-grade delivery.** CI/CD, tests and security gates from day one, deployed to your cloud (AWS, GCP, Azure or Cloudflare). You own the code, the repos and the accounts.
-- **Built for your market.** Products already ship in 7 European languages, with localization, store releases and SEO handled.
-- **AI that runs in production.** Agents on daily schedules for content, QA and data, behind policy checks, not demos.
-- **Live walkthrough on request.** Most of my code is in private repos, so I'll screen-share the real pipelines, dashboards and codebases on a call.
+| I build | Typical projects |
+|---|---|
+| 📱 **Mobile apps** | Native iOS & Android (Swift, Kotlin), watchOS & Wear OS, in-app subscriptions, App Store & Google Play release |
+| 🌐 **Web apps & SaaS** | Dashboards, marketplaces, booking & internal tools, landing pages that convert, auth, payments, admin panels |
+| 🤖 **AI products & agents** | Chatbots on your own data (RAG), AI agents that do real work, automations for content, support & ops, AI features inside existing apps |
+| ☁️ **Cloud & DevOps** | CI/CD, AWS · GCP · Azure · Cloudflare, Kubernetes & Terraform, cost cuts, migrations, monitoring |
 
-Good fit: MVPs and mobile apps, cloud and CI/CD setup or migration, AI automation, and rescuing stalled projects.
-<a href="mailto:kovacirexhino@gmail.com?subject=Project%20inquiry"><b>Email me about your project →</b></a>
+**Why clients can trust it**
+- Every product above is live. Install the apps and try the sites before we talk.
+- Production-grade from day one: tests, CI/CD and security checks, deployed to your cloud. You own the code and the accounts.
+- Built for European markets: shipping in 7 languages, with localization and store releases handled.
+- Most of my code is private, so I'll walk you through real pipelines and codebases on a call.
+
+**Start a project:** email what you want to build, your timeline and your budget range. I reply within 24 hours with next steps.
+
+<p>
+  <a href="mailto:kovacirexhino@gmail.com?subject=New%20project%3A%20mobile%20%2F%20web%20%2F%20AI&body=What%20I%20want%20to%20build%3A%0ATimeline%3A%0ABudget%20range%3A"><img src="https://img.shields.io/badge/Start%20a%20project-kovacirexhino%40gmail.com-F38020?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project"/></a>
+</p>
 
 ### How I ship
 
@@ -86,7 +96,7 @@ Good fit: MVPs and mobile apps, cloud and CI/CD setup or migration, AI automatio
 
 <img width="100%" src="assets/languages.svg" alt="Languages: Java, JavaScript, Swift, Kotlin, TypeScript, Python"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rexhinokovaci&bg_color=00000000&color=8b949e&line=F38020&point=F38020&area=true&area_color=F38020&hide_border=true" alt="Contribution graph"/>
+<img width="100%" src="assets/activity.svg" alt="Weekly contributions over the last 12 months"/>
 
 ---
 
