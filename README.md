@@ -15,7 +15,7 @@
 
 ---
 
-I build and run products end to end: native mobile apps, edge backends, web, CI/CD and the AI pipelines that keep them fresh. One person, one stack, shipped to the App Store, Google Play and the edge.
+I'm a DevOps engineer, mobile app developer and AI engineer based in Tirana, Albania, working with clients across the Balkans and Europe. I build and run products end to end: native mobile apps, edge backends, web, CI/CD and the AI pipelines that keep them fresh. One person, one stack, shipped to the App Store, Google Play and the edge.
 
 ```yaml
 role:      [devops, full-stack, mobile, ai-engineering]
@@ -31,6 +31,20 @@ currently: scaling a portfolio of localized word games and utility apps across E
 <img width="100%" src="assets/stats.svg" alt="134 repositories, 7,000+ commits, 821 commits in 2026, 3,000+ CI/CD runs in 2026, 40+ live sites, 70+ CI/CD workflows"/>
 
 Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croatian and Danish.
+
+### Experience & certifications
+
+- **5+ years in DevOps**, building and running CI/CD, cloud infrastructure and monitoring for production systems.
+- **DevOps Engineer at Lufthansa Industry Solutions** (2022–2024), working on Volkswagen AG projects.
+- **Founder of [Modex Apps](https://modex.al)**, part of the Startup Albania program, with 30+ apps and games published on the App Store.
+
+| Certification | Issuer |
+|---|---|
+| DevOps Engineer Expert | Microsoft |
+| Azure Administrator Associate | Microsoft |
+| Azure Developer Associate | Microsoft |
+| Terraform Associate | HashiCorp |
+| Full-Stack Observability | New Relic |
 
 ### Selected work
 
