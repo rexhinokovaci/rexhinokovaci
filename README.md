@@ -36,10 +36,10 @@ Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croat
 
 | Product | What it is | Platforms |
 |---|---|---|
-| [**Nearby Lens**](https://nearby-glasses-alert.pages.dev) | Detects camera-equipped smart glasses over Bluetooth LE, with over-the-air detection rules | iOS · watchOS · Android · Wear OS |
-| [**Kush Jam Unë?**](https://kushjamune.pages.dev) | The #1 Albanian party guessing game, 4,000+ cards backed by D1 | iOS · Android · Workers |
-| [**Balkans Quiz**](https://balkansquiz.pages.dev) | Trivia across 8 Balkan countries with an automated question pipeline | Web · Workers · Pages |
-| **Word game series**: [Shtet·Qytet](https://shtet-qytet.pages.dev) · [Χώρα·Πόλη](https://hora-poli.pages.dev) · [Stadt·Land·Fluss](https://stadt-land-fluss-67w.pages.dev) · [Nomi·Cose·Città](https://nomi-cose-citta.pages.dev) · [Država·Grad](https://drzava-grad.pages.dev) · [Țară·Oraș](https://tara-oras-e8g.pages.dev) · By·Land·Flod | One engine, localized per market: live multiplayer, solo mode, self-updating dictionaries | iOS · Android · Web · Workers |
+| [**Nearby Lens**](https://nearby-glasses-alert.pages.dev) | Detects camera-equipped smart glasses over Bluetooth LE, with over-the-air detection rules · [case study](https://github.com/rexhinokovaci/nearby-lens-case-study) | iOS · watchOS · Android · Wear OS |
+| [**Kush Jam Unë?**](https://kushjamune.pages.dev) | The #1 Albanian party guessing game, 4,000+ cards backed by D1 · [case study](https://github.com/rexhinokovaci/kush-jam-une-case-study) | iOS · Android · Workers |
+| [**Balkans Quiz**](https://balkansquiz.pages.dev) | Per-country trivia apps with Apple Watch and widgets, fed by an automated question pipeline · [case study](https://github.com/rexhinokovaci/balkans-quiz-case-study) | Web · Workers · Pages |
+| **Word game series**: [Shtet·Qytet](https://shtet-qytet.pages.dev) · [Χώρα·Πόλη](https://hora-poli.pages.dev) · [Stadt·Land·Fluss](https://stadt-land-fluss-67w.pages.dev) · [Nomi·Cose·Città](https://nomi-cose-citta.pages.dev) · [Država·Grad](https://drzava-grad.pages.dev) · [Țară·Oraș](https://tara-oras-e8g.pages.dev) · By·Land·Flod | One engine, localized per market: live multiplayer, solo mode, self-updating dictionaries · [case study](https://github.com/rexhinokovaci/word-game-engine-case-study) | iOS · Android · Web · Workers |
 | [**Balkan AI**](https://balkan-ai-web.pages.dev) | AI travel guide for the Balkans | Web · Workers |
 | [**Briefly**](https://briefly-hjn.pages.dev) | 590+ book summaries, about 14 minutes each | Mobile · Web |
 | [**Haven**](https://haven-a0a.pages.dev) | A safe space for your mind | Mobile · Web |
