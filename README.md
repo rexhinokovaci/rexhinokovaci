@@ -12,11 +12,11 @@
   <a href="#experience--certifications">Experience</a> &nbsp;·&nbsp;
   <a href="#hire-me-to-build-it">Services</a> &nbsp;·&nbsp;
   <a href="#faq">FAQ</a> &nbsp;·&nbsp;
-  <a href="mailto:kovacirexhino@gmail.com">Contact</a>
+  <a href="#hire-me-to-build-it">Contact</a>
 </p>
 
 <p align="center">
-  <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email Rexhino Kovaci at kovacirexhino@gmail.com"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email Rexhino Kovaci at kovacirexhino@gmail.com"/></a>
   <a href="https://modex.al"><img src="https://img.shields.io/badge/Web-modex.al-111?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Modex Apps website: modex.al"/></a>
   <a href="#hire-me-to-build-it"><img src="https://img.shields.io/badge/Available%20for-new%20projects-F38020?style=flat-square" alt="Available for new client projects"/></a>
 </p>
@@ -89,8 +89,11 @@ I'm taking on new client projects. You get one senior engineer from idea to laun
 **Start a project:** email what you want to build, your timeline and your budget range. I reply within 24 hours with next steps.
 
 <p>
-  <a href="mailto:kovacirexhino@gmail.com?subject=New%20project%3A%20mobile%20%2F%20web%20%2F%20AI&body=What%20I%20want%20to%20build%3A%0ATimeline%3A%0ABudget%20range%3A"><img src="https://img.shields.io/badge/Start%20a%20project-kovacirexhino%40gmail.com-F38020?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email kovacirexhino@gmail.com"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kovacirexhino@gmail.com&amp;su=New%20project%3A%20mobile%20%2F%20web%20%2F%20AI&amp;body=What%20I%20want%20to%20build%3A%0ATimeline%3A%0ABudget%20range%3A"><img src="https://img.shields.io/badge/Start%20a%20project-kovacirexhino%40gmail.com-F38020?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email kovacirexhino@gmail.com"/></a>
 </p>
+
+<sub>Button opens Gmail in your browser. Prefer your own mail app? Write to <b>kovacirexhino@gmail.com</b> or <a href="mailto:kovacirexhino@gmail.com?subject=New%20project">open it in your mail app</a>.</sub>
+
 
 ### How I ship
 
@@ -129,7 +132,7 @@ Most of my code is private, so I walk you through real pipelines and codebases o
 
 #### How do we start?
 
-Email what you want to build, your timeline and your budget range to [kovacirexhino@gmail.com](mailto:kovacirexhino@gmail.com). I reply within 24 hours with next steps.
+Email what you want to build, your timeline and your budget range to **kovacirexhino@gmail.com** ([write in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=kovacirexhino@gmail.com) · [mail app](mailto:kovacirexhino@gmail.com)). I reply within 24 hours with next steps.
 
 ### Stack
 
@@ -148,4 +151,4 @@ Email what you want to build, your timeline and your budget range to [kovacirexh
 
 ---
 
-<p align="center"><sub>Most of my work lives in private repos. If you want a walkthrough, a collab or a contract, <a href="mailto:kovacirexhino@gmail.com">get in touch</a>.</sub></p>
+<p align="center"><sub>Most of my work lives in private repos. If you want a walkthrough, a collab or a contract, <a href="#hire-me-to-build-it">get in touch</a> (kovacirexhino@gmail.com).</sub></p>
