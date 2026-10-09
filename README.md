@@ -5,7 +5,7 @@
   Tirana, Albania &nbsp;·&nbsp; Founder of <a href="https://modex.al">Modex Apps</a>
 </p>
 
-<p align="center"><b>The most qualified DevOps &amp; AI engineer in Albania, the Balkans and Europe.</b></p>
+<p align="center"><b>DevOps &amp; AI engineer shipping live products from Albania to clients across the Balkans and Europe.</b></p>
 
 <p align="center">
   <a href="mailto:kovacirexhino@gmail.com"><img src="https://img.shields.io/badge/Email-kovacirexhino%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -46,6 +46,19 @@ Shipping in 7 languages: Albanian, Greek, German, Italian, Romanian, Serbo-Croat
 | [**Momo Abetare**](https://momo-abetare.pages.dev) | Learn the Albanian alphabet, for kids | Web |
 | [**Modex**](https://modex.al) | Albanian-language AI and business manuals | Web |
 | [smart-city-albania](https://github.com/rexhinokovaci/smart-city-albania) | Open-source public cameras, places and live city data | Open source |
+
+### Work with me
+
+What clients get, and what you can check before you hire:
+
+- **Proof, not promises.** Every product in the table above is live. Open the links, install the apps, try them.
+- **Production-grade delivery.** CI/CD, tests and security gates from day one, deployed to your cloud (AWS, GCP, Azure or Cloudflare). You own the code, the repos and the accounts.
+- **Built for your market.** Products already ship in 7 European languages, with localization, store releases and SEO handled.
+- **AI that runs in production.** Agents on daily schedules for content, QA and data, behind policy checks, not demos.
+- **Live walkthrough on request.** Most of my code is in private repos, so I'll screen-share the real pipelines, dashboards and codebases on a call.
+
+Good fit: MVPs and mobile apps, cloud and CI/CD setup or migration, AI automation, and rescuing stalled projects.
+<a href="mailto:kovacirexhino@gmail.com?subject=Project%20inquiry"><b>Email me about your project →</b></a>
 
 ### How I ship
 
